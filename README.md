@@ -9,9 +9,9 @@ In this repository, I shall upload the single notebook projects that I will lear
 </div>
 
 In this guided project I have learnt -
-1. How to efficiently handle data and create input pipelines with td.data for bert models.
-2. Tokenize and Preprocess Text for BERT using bert tokenizer.
-3. Fine-tune BERT for text classification with TensorFlow 2 and TF Hub.
+- How to efficiently handle data and create input pipelines with td.data for bert models.
+- Tokenize and Preprocess Text for BERT using bert tokenizer.
+- Fine-tune BERT for text classification with TensorFlow 2 and TF Hub.
 
 Some useful resources to learn about bert and transformers:
 
