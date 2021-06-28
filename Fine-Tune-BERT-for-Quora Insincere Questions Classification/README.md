@@ -1,7 +1,4 @@
-# Single Notebook Projects
-In this repository, I shall upload the single notebook projects that I will learn in my learning career graph. This readme contains the learning outcome and useful resources for each project.
-
-## [1] Fine-Tune-BERT-for-Quora Insincere Questions Classification-with-TensorFlow
+# [1] Fine-Tune-BERT-for-Quora Insincere Questions Classification-with-TensorFlow
 
 <div align="center">
     <img width="512px" src='images/BERT_Layer.png' />
