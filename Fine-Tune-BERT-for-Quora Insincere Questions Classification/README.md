@@ -10,7 +10,7 @@ In this guided project I have learnt -
 2. Tokenize and Preprocess Text for BERT using bert tokenizer.
 3. Fine-tune BERT for text classification with TensorFlow 2 and TF Hub.
 
-Some useful resources to learn about bert and transformers:
+Some <b>useful resources</b> to learn about bert and transformers:
 
 1. The Illustrated Transformer (Jay Alammar)[https://jalammar.github.io/illustrated-transformer/]
 
