@@ -3,6 +3,10 @@ In this repository, I shall upload the single notebook projects that I will lear
 
 ## [1] Fine-Tune-BERT-for-Quora Insincere Questions Classification-with-TensorFlow
 
+<div align="center">
+    <img width="512px" src='images/BERT_Layer.png' />
+    <p style="text-align: center;color:gray">Figure 1: BERT Classification Model</p>
+</div>
 
 In this guided project I have learnt -
 1. How to efficiently handle data and create input pipelines with td.data for bert models.
