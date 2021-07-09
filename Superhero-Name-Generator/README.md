@@ -11,7 +11,4 @@ Text generation is a common natural language processing task. We will created a 
 In this guided project I have learnt -
 - How to create a character level language model that will predict the next character for a given input sequence.
 
-I have also implemented a web based version of this project. See the flask deployment <a href="https://github.com/avishek-018/Superhero-Name-Generator">here</a>.
-
-
-
+<h3>I have also implemented a web based version of this project. See the flask deployment <a href="https://github.com/avishek-018/Superhero-Name-Generator">here</a>. </h3>
