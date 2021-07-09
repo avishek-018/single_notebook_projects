@@ -1,7 +1,7 @@
 # [1] Fine-Tune-BERT-for-Quora Insincere Questions Classification-with-TensorFlow
 
 <div align="center">
-    <img width="512px" src='images/BERT_Layer.png' />
+    <img width="512px" src='../images/BERT_Layer.png' />
     <p style="text-align: center;color:gray">Figure 1: BERT Classification Model</p>
 </div>
 
