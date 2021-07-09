@@ -1,4 +1,4 @@
-# [2] Create a Superhero Name Generator with TensorFlow
+# Create a Superhero Name Generator with TensorFlow
 
 <div align="center">
     <img width="512px" src='../images/superhero.png' />

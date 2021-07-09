@@ -1,4 +1,4 @@
-# [1] Fine-Tune-BERT-for-Quora Insincere Questions Classification-with-TensorFlow
+# Fine-Tune-BERT-for-Quora Insincere Questions Classification-with-TensorFlow
 
 <div align="center">
     <img width="512px" src='../images/BERT_Layer.png' />
